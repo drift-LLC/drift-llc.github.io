@@ -1,4 +1,4 @@
-body { /*margin: 60px auto;*/ top: 0; width: 100%; }
+body { /*margin: 60px auto;*/ width: 100%; }
 
 a { text-decoration: none; color: #999; }
 a:hover { text-decoration: underline; }
@@ -14,7 +14,8 @@ h4 { font-size: 1.9em; }
 nav ul { font-size: 3em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; background-color: #000000; position: fixed; top: 0; width: 100%; }
 footer ul { font-size: 1em; font-family: 'Helvetica', 'Arial', 'Sans-Serif'; padding: 0px; list-style: none; font-weight: bold; }
 
-nav ul li, footer ul li { display: inline; margin-right: 20px; }
+nav ul li { display: inline; margin: 0; overflow: hidden; }
+footer ul li { display: inline; margin-right: 20px; }
 
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
