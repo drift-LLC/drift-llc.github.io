@@ -38,6 +38,8 @@ nav li a:hover {
 nav .heading {
     margin:0;
     display: inline-block;
+    color: white;
+    padding: 14px 16px;
 }
 nav .navbar-brand {
     margin-top: 10px;
