@@ -29,7 +29,7 @@ ul.posts li { list-style: none; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
 
 div.background {
-  background: url("https://drift-llc.github.io/word-work-shops-1.jpg") repeat;
+  background: url("/word-work-shops-1.jpg") repeat;
   border: 2px solid black;
 }
 
