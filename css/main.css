@@ -46,9 +46,10 @@ nav .heading {
     font-family: "My Custom Font";
     src: url(http://drift-llc.github.io/fonts/burnstown_dam.ttf) format("truetype");
 }
-/*nav h1.customfont { 
+nav h1.customfont { 
     font-family: "My Custom Font", Verdana, Tahoma;
-}*/
+    margin-top:10px;
+}
 }
 nav h1 { font-size: 1.5em;   }
 nav .navbar-brand {
