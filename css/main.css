@@ -31,6 +31,8 @@ nav li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family: "My Custom Font", Verdana, Tahoma;
+    font-size: 250%;
 }
 nav li a:hover {
     background-color: #111;
@@ -49,7 +51,7 @@ nav .heading {
 nav h1.customfont { 
     font-family: "My Custom Font", Verdana, Tahoma;
     margin-top:10px;
-}
+    font-size: 250%;
 }
 nav h1 { font-size: 1.5em;   }
 nav .navbar-brand {
