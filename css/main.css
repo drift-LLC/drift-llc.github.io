@@ -46,7 +46,7 @@ nav .heading {
 }
 @font-face {
     font-family: "My Custom Font";
-    src: url(http://drift-llc.github.io/fonts/burnstown_dam.ttf) format("truetype");
+    src: url(https://drift-llc.github.io/fonts/burnstown_dam.ttf) format("truetype");
 }
 nav h1.customfont { 
     font-family: "My Custom Font", Verdana, Tahoma;
